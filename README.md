@@ -1,1 +1,1 @@
-# project-sol-EPIC-ARCHERY-STAGE-3-main
+# Project Template 26
